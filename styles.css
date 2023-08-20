@@ -11,6 +11,7 @@ body {
 #testimonial-grid-container {
     padding: 5.5% 3%;
     color: #ffffff;
+    margin: 0 auto;
 }
 
 #card-1 {
@@ -100,7 +101,6 @@ body {
         display: flex;
         margin: 0 auto;
     }
-
 
     #main-left {
         display: flex;
